@@ -1,1 +1,1 @@
-# stock-close-prediction
+# Stock closing movement prediction
